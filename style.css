@@ -28,3 +28,9 @@ p{
     font-size: 20px;
 
 }
+@media (min-width: 480px)
+
+ .big{
+    width:100%;
+    height:auto;
+}
